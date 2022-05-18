@@ -1,0 +1,42 @@
+body {
+	background: url("c3.jpg");
+}
+
+.titulo-centralizado {
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: 0 0 4px black;
+	text-decoration: underline;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+#noh {
+	padding: 40px 0;	
+}
+
+p {
+	font-size: 30px ;text-align: center;
+	color: #FFFFFF;
+	text-shadow: 0 0 20px black;
+}
+
+strong {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	text-shadow: 0 0 4px black;
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 10px;
+	margin: 20px;
+}
